@@ -12,8 +12,9 @@ body {
         background-color: rgba(156, 91, 16, 0.918);
     }
     
-    
+
 .imagem{
+    font-size: 35px;
 width: 20%;
 height: 10px;
 background-image: url(“../img/Menu.svg”);

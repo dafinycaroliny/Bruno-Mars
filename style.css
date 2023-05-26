@@ -10,6 +10,7 @@ body {
 
     h1 {
         background-color: rgba(156, 91, 16, 0.918);
+        flex-direction: column;
         }
     }
 .imagem{

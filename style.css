@@ -10,10 +10,12 @@ body {
 
     h1 {
         background-color: rgba(156, 91, 16, 0.918);
+    }
+    p{
         font-size: 20px;
         text-align-last: left;
         }
-    }
+    
 .imagem{
 width: 50%;
 height: 24px;

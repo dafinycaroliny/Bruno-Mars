@@ -11,7 +11,8 @@ body {
     h1 {
         background-color: rgba(156, 91, 16, 0.918);
     }
-    p{
+.texto-resumo{
+    width: 10px;
         font-size: 20px;
         text-align-last: left;
         }

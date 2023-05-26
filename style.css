@@ -17,8 +17,8 @@ body {
         }
     
 .imagem{
-width: 50%;
-height: 24px;
+width: 20%;
+height: 10px;
 background-image: url(“../img/Menu.svg”);
 display: inline-block; 
 }

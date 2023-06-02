@@ -14,13 +14,13 @@ body {
     
 
 .imagem{
-    font-size: 35px;
-width: 20%;
+width: 10px;
 height: 10px;
-background-image: url(“../img/Menu.svg”);
+background-image: url("../img/Menu.svg");
 display: inline-block; 
 }
+
 :root {
-    --cor-de-fundo: #EBECEE;
+    --cor-de-fundo: gradient#e28922 rgb(245, 216, 179);
     --branco: #FFFFFF;
     }

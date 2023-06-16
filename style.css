@@ -21,6 +21,6 @@ display: inline-block;
 }
 
 :root {
-    --cor-de-fundo: gradient#e28922 rgb(245, 216, 179);
+    --cor-de-fundo: linear-gradient#e28922 rgb(245, 216, 179);
     --branco: #FFFFFF;
     }

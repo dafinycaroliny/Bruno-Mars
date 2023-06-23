@@ -1,11 +1,11 @@
 @import url("styles/header.css");
 
 :root{
-    --cor-de-fundo
+    --cor-de-fundo:#e28922;
 }
 
 body {
-    background-color: black;
+    background-color: #000000;
 }
 
     h1 {
@@ -13,12 +13,7 @@ body {
     }
     
 
-.imagem{
-width: 10px;
-height: 10px;
-background-image: url("../img/Menu.svg");
-display: inline-block; 
-}
+
 
 :root {
     --cor-de-fundo: linear-gradient#e28922 rgb(245, 216, 179);

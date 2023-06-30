@@ -1,13 +1,10 @@
 @import url("styles/header.css");
 
 :root{
-    --cor-de-fundo:#e28922;
+    --cor-de-fundo:#ebecee;
+    --branco: #FFFFFF;
 }
 
 body {
-    background-color: #000000;
+    background-color: #ba65dbcc;
 }
-:root{
-    --cor-de-fundo: linear-gradient#e28922 rgb(245, 216, 179);
-    --branco: #ffffff;
-    }

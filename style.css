@@ -7,15 +7,7 @@
 body {
     background-color: #000000;
 }
-
-    h1 {
-        background-color: rgba(156, 91, 16, 0.918);
-    }
-    
-
-
-
-:root {
+:root{
     --cor-de-fundo: linear-gradient#e28922 rgb(245, 216, 179);
-    --branco: #FFFFFF;
+    --branco: #df9af0bb;
     }
